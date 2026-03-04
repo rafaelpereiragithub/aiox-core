@@ -722,11 +722,7 @@ See also:
 | **Roadmap**           | [Roadmap](docs/roadmap.md)                  | [PT-BR](docs/pt/roadmap.md)           |
 | **Changelog**         | [Version History](CHANGELOG.md)             | -                                     |
 
-## Acknowledgments
-
-This project was originally derived from the [BMad Method](https://github.com/bmad-code-org/BMAD-METHOD) by [Brian Madison](https://github.com/bmadcode). We thank Brian and all BMad Method contributors for the original work that made this project possible.
-
-**Note:** Some contributors shown in the GitHub contributors graph are inherited from the original BMad Method git history and do not represent active participation in or endorsement of AIOX.
+## Contributors
 
 [![Contributors](https://contrib.rocks/image?repo=SynkraAI/aiox-core)](https://github.com/SynkraAI/aiox-core/graphs/contributors)
 

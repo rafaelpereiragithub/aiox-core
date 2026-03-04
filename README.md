@@ -13,7 +13,7 @@
 [![Code of Conduct](https://img.shields.io/badge/code%20of%20conduct-Contributor%20Covenant-blue.svg)](CODE_OF_CONDUCT.md)
 
 > 🌐 README por idioma: [EN](docs/README.md) | [PT](docs/pt/README.md) | [ES](docs/es/README.md) | [ZH](docs/zh/README.md)
-
+>
 > **Devolvendo às pessoas o poder de criar** — Framework open source de orquestração de IA que devolve o controle a quem tem coragem de construir. Agentes especializados, workflows e experiência CLI First para qualquer domínio.
 
 ## Comece Aqui (10 Min)
@@ -447,7 +447,7 @@ O framework de linguagem natural do AIOX funciona em QUALQUER domínio. Os Squad
 
 ## Agentes Disponíveis
 
-O AIOX vem com 11 agentes especializados:
+O AIOX vem com 12 agentes especializados:
 
 ### Agentes Meta
 
@@ -722,11 +722,7 @@ Veja também:
 | **Roadmap**           | [Roadmap](docs/roadmap.md)                  | [PT-BR](docs/pt/roadmap.md)           |
 | **Changelog**         | [Version History](CHANGELOG.md)             | -                                     |
 
-## Reconhecimentos
-
-This project was originally derived from the [BMad Method](https://github.com/bmad-code-org/BMAD-METHOD) by [Brian Madison](https://github.com/bmadcode). We thank Brian and all BMad Method contributors for the original work that made this project possible.
-
-**Note:** Some contributors shown in the GitHub contributors graph are inherited from the original BMad Method git history and do not represent active participation in or endorsement of AIOX.
+## Contribuidores
 
 [![Contributors](https://contrib.rocks/image?repo=SynkraAI/aiox-core)](https://github.com/SynkraAI/aiox-core/graphs/contributors)
 
